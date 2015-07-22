@@ -1,0 +1,7 @@
+<configuration>
+
+	<property>
+		<name>port.range</name>
+		<value>1023-1023</value>
+	</property>
+</configuration>
